@@ -1,2 +1,3 @@
-# backend-projects
-A collection of backend project solutions from Roadmap.sh.
+## Backend Projects by [roadmap.sh](https://roadmap.sh)
+
+This repository contains a list of project solutions for the [Backend Developer](https://roadmap.sh/backend) roadmap. The projects are categorized into beginner, intermediate, and advanced.
