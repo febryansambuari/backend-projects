@@ -1,0 +1,3 @@
+[submodule "task-tracker-cli"]
+	path = task-tracker-cli
+	url = https://github.com/febryansambuari/task-tracker-cli.git
