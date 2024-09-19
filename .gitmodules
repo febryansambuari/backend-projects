@@ -1,3 +1,6 @@
 [submodule "task-tracker-cli"]
 	path = task-tracker-cli
 	url = https://github.com/febryansambuari/task-tracker-cli.git
+[submodule "github-activity-cli"]
+	path = github-activity-cli
+	url = https://github.com/febryansambuari/github-activity-cli.git
